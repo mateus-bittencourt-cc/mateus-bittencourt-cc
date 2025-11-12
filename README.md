@@ -8,7 +8,9 @@
 
 <h4>☕ Eu sou o amigo que te avisa para trocar a senha '123456'.</h4>
 
-<br><br>## 💻 <b>Tecnologias e Linguagens:</b>
+<br>
+
+## 💻 <b>Tecnologias e Linguagens:</b>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
