@@ -40,21 +40,6 @@ Atuação em projetos full stack, com desenvolvimento de sistemas internos, auto
 
 <br><br>
 
-<h2>📊 <b>Estatísticas</b></h2>
-
-<div>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-bittencourt-cc&layout=compact&langs_count=7&theme=dracula"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mateus-bittencourt-cc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-  />
-</div>
-
-<br><br>
-
 <h2>📞 <b>Contatos</b></h2>
 
 <div>
