@@ -3,42 +3,56 @@
 <h1>Mateus Bittencourt</h1>
 
 <h3>
-💻 Desenvolvedor Júnior (Full Stack)<br>
-👨‍💻 Bacharel em Ciência da Computação<br>
-🌍 Distrito Federal
+🛠️ Analista de Suporte N2 & Infraestrutura de TI<br>
+🛡️ Estudando Cibersegurança<br>
+🎓 Ciência da Computação • Distrito Federal
 </h3>
 
-<h5>☕ Sou o amigo que te avisa para trocar a senha "123456".</h5>
+<h5>☕ "O único sistema totalmente seguro é aquele que está desligado e desconectado da rede.".</h5>
 
 <p>
-Desenvolvedor Júnior com formação em Ciência da Computação e experiência prática em desenvolvimento de sistemas e suporte técnico adquirida durante estágio na Polícia Civil do Distrito Federal.
+Profissional de TI com atuação em <b>Suporte Técnico N2</b> e experiência prática em infraestrutura, administração de ambientes e desenvolvimento de sistemas, construída na <b>Polícia Civil do Distrito Federal (PCDF)</b>.
 </p>
 
 <p>
-Atuação em projetos full stack, com desenvolvimento de sistemas internos, automação de processos, controle patrimonial e aplicações para inspeção de viaturas, utilizando boas práticas de versionamento e organização de código.
+Foco em resolução de incidentes e chamados de maior complexidade, administração de usuários e políticas em Active Directory, implantação e manutenção de estações de trabalho, suporte a certificados digitais/tokens, apoio a redes e servidores, além de automação e desenvolvimento de aplicações internas. Atualmente em evolução contínua nos estudos de <b>Cibersegurança</b> e administração de sistemas.
 </p>
 
 <br>
 
-<h2>💻 <b>Tecnologias e Linguagens</b></h2>
+<h2>🧰 <b>Stack, Infraestrutura & Ferramentas</b></h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" alt="ubuntu" title="Ubuntu" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32" alt="windows" title="Windows / Active Directory" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash / shell" title="Shell / Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="django" title="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter" title="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" title="Git" />
 </div>
 
-<br><br>
+<br>
+
+<ul>
+  <li><b>Suporte & Operações (N2):</b> Triagem e resolução de incidentes/requisições, Active Directory & GPOs, padronização/deploy de imagens, manutenção preventiva e corretiva, apoio em redes e servidores.</li>
+  <li><b>Sistemas & Automação:</b> Scripts e aplicações em Python, Node.js, JavaScript e Django, além de soluções internas (controle patrimonial, inspeção de viaturas e automações).</li>
+  <li><b>Segurança & Redes:</b> Estudo contínuo em cibersegurança, fundamentos de redes, hardening, controle de acessos e boas práticas operacionais.</li>
+</ul>
+
+<br>
 
 <h2>📞 <b>Contatos</b></h2>
 
